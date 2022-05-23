@@ -1,1 +1,1 @@
-# intro-artificial-intelligence
+# csc-421-assignment1
